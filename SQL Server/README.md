@@ -1,7 +1,6 @@
 | Nº  | Tema                            | Descripción                                                                                   | Link a repositorio                     |
 |-----|---------------------------------|-----------------------------------------------------------------------------------------------|----------------------------------------|
 | 1   | Manejo de tipos de datos         | Gestión adecuada de tipos de datos como DATE, VARCHAR, INT, y uso correcto de conversiones.    | [Repositorio](https://github.com/cadionicio/Reto-Excel-SQL-PowerBI/tree/main/SQL%20Server/Tema%201) |
-
 | 2   | Consultas avanzadas con JOIN     | Uso de múltiples tipos de JOIN (INNER, OUTER, LEFT, RIGHT, FULL) para combinar tablas eficientemente. | [Repositorio](https://github.com/tema_2) |
 | 3   | Subconsultas                    | Consultas anidadas que se ejecutan dentro de otras consultas para calcular valores adicionales. | [Repositorio](https://github.com/tema_3) |
 | 4   | Vistas                          | Consultas guardadas como tablas virtuales que pueden simplificar consultas frecuentes y complejas. | [Repositorio](https://github.com/tema_4) |
@@ -20,4 +19,5 @@
 | 17  | Particionamiento de tablas       | Técnica para dividir tablas grandes en subpartes más manejables, mejorando el rendimiento y administración. | [Repositorio](https://github.com/tema_17) |
 | 18  | Consultas distribuidas           | Acceso y consulta a bases de datos remotas mediante linked servers.                             | [Repositorio](https://github.com/tema_18) |
 | 19  | Alta disponibilidad              | Técnicas como replicación, mirroring y AlwaysOn para asegurar disponibilidad continua del sistema. | [Repositorio](https://github.com/tema_19) |
+
 
