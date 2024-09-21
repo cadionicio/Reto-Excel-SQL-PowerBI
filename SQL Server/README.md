@@ -1,6 +1,6 @@
 | Nº  | Tema                            | Descripción                                                                                   | Link a repositorio                     |
 |-----|---------------------------------|-----------------------------------------------------------------------------------------------|----------------------------------------|
-| 1   | Manejo de tipos de datos         | Gestión adecuada de tipos de datos como DATE, VARCHAR, INT, y uso correcto de conversiones.    | [Repositorio]([https://github.com/tema_1](https://github.com/cadionicio/Reto-Excel-SQL-PowerBI/tree/main/SQL%20Server/Tema%201)) |
+| 1   | Manejo de tipos de datos         | Gestión adecuada de tipos de datos como DATE, VARCHAR, INT, y uso correcto de conversiones.    | [Repositorio]([https://github.com/tema_1](https://github.com/cadionicio/Reto-Excel-SQL-PowerBI/tree/main/SQL%20Server/Tema%201) |
 | 2   | Consultas avanzadas con JOIN     | Uso de múltiples tipos de JOIN (INNER, OUTER, LEFT, RIGHT, FULL) para combinar tablas eficientemente. | [Repositorio](https://github.com/tema_2) |
 | 3   | Subconsultas                    | Consultas anidadas que se ejecutan dentro de otras consultas para calcular valores adicionales. | [Repositorio](https://github.com/tema_3) |
 | 4   | Vistas                          | Consultas guardadas como tablas virtuales que pueden simplificar consultas frecuentes y complejas. | [Repositorio](https://github.com/tema_4) |
